@@ -1,0 +1,7 @@
+.num-button {
+    -fx-background-radius: 50%;
+}
+
+.num-button:hover {
+    -fx-background-color: #c5d0bc;
+}
